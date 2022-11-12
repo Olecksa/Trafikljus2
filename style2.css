@@ -1,0 +1,45 @@
+* {
+  margin: 10px;
+  padding-top: 5px;
+}
+
+body {
+    background: lightgrey;
+    
+}
+
+
+.box {
+    background: whitesmoke;
+    width: 12.7%;
+    height: auto;
+    margin: 0;
+    padding: 2px;
+    margin: 0 auto;
+  }
+
+  .red {
+    background: conic-gradient(#cf222e 0deg, #cf222e 90deg,   rgb(252, 212, 212) 90deg,   rgb(252, 212, 212) 180deg,  rgb(252, 212, 212) 180deg,  rgb(252, 212, 212) 270deg, #cf222e 270deg);
+    width: 150px;
+    height: 150px;
+    border: 10px solid darkred;
+
+  }
+
+  .yellow {
+    background: conic-gradient(yellow 0deg, yellow 90deg,  rgb(233, 231, 204)90deg, rgb(233, 231, 204) 180deg, yellow 180deg, yellow 270deg, yellow 270deg);
+    border: 10px solid darkgoldenrod;
+    width: 150px;
+    height: 150px;
+  
+
+  }
+
+  .green {
+    background: conic-gradient(#30a14e 0deg, #30a14e 90deg,  #30a14e 90deg,  #30a14e 180deg, #9be9a8 180deg, #9be9a8 270deg, #30a14e 270deg);
+    border: 10px solid #216e39;
+    width: 150px;
+    height: 150px;
+    
+
+  }
